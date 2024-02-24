@@ -38,7 +38,7 @@ function AboutSection() {
       </div>
       <div className="mt-6 text-center">
         <a
-          href="https://github.com/omkar-107/file-converter"
+          href="https://github.com/sourabh-patil-7/file-converter-pro"
           target="_blank"
           rel="noopener noreferrer"
           className="text-blue-500 hover:text-blue-700 font-semibold inline-block"
